@@ -1,0 +1,11 @@
+Package: eu.jypy.iconpack
+Version: 1.7
+Section: Jypyz.Products
+Priority: standard
+Installed-Size: 
+Maintainer: Jean-Philippe Bouillot (Jypy) <jypyzproducts@jypy.eu>
+Architecture: iphoneos-arm
+Name: Jypyz Products Icons
+Author: Jean-Philippe Bouillot (Jypy) <jypyzproducts@jypy.eu>
+Description: Jypyz Products Cydia Icons Pack
+Sponsor: Jypy.eu <http://jypy.eu>
